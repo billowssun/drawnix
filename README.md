@@ -1,3 +1,9 @@
+<!-- project-overview:start -->
+> **项目简介**：集思维导图、流程图和自由绘画于一体的开源白板，适合整理知识、讨论方案与表达想法。
+>
+> 本仓库是 [plait-board/drawnix](https://github.com/plait-board/drawnix) 的 Fork；下方保留项目文档与原有署名。
+<!-- project-overview:end -->
+
 <p align="center">
   <picture style="width: 320px">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/plait-board/drawnix/blob/develop/apps/web/public/logo/logo_drawnix_h.svg?raw=true" />
